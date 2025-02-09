@@ -1,5 +1,12 @@
 An Expense Tracking webapp that keeps track of the income and expenses developed using the MERN Stack, designed to help users manage their expenses. The application allows users to create and manage their accounts, add, edit, delete and view their expenses in pie-chart.
 
+![Image](https://github.com/user-attachments/assets/d8929777-6bb9-4b4e-a9b1-e73523396d94)
+
+
+![Image](https://github.com/user-attachments/assets/d4a40741-1a5d-4c4d-aa11-2772ddcb941a)
+
+
+![Image](https://github.com/user-attachments/assets/5693d01e-b99b-46fa-899d-8e8eab429f85)
 
 
 
