@@ -12,20 +12,19 @@ An Expense Tracking webapp that keeps track of the income and expenses developed
 
 
 
-Functionality:
-The ExpenseTracker application has the following features:
-User Authentication: The application requires users to create an account or log in before they can use the application.
-Add Income: Users can add incomes by clicking on the "Add Income" button and filling out the form.
-Add Expense: Users can add expenses by clicking on the "Add Expense" button and filling out the form.
-Edit Income: Users can edit incomes by clicking on the "Edit" button and updating the form.
-Edit Expense: Users can edit expenses by clicking on the "Edit" button and updating the form.
-Delete Income: Users can delete incomes by clicking on the "Delete" button and updating the form.
-Delete Expense: Users can delete expenses by clicking on the "Delete" button and updating the form.
-View Income/Expense: Users can view their incomes and expenses on the dashboard page, which displays a list of all incomes and expenses as well as in pie-chart.
+ExpenseTracker Application
+Functionality
+- User Authentication: Create an account or log in to use the application
+- Add Income: Add new incomes with a simple form
+- Add Expense: Add new expenses with a simple form
+- Edit Income: Update existing incomes
+- Edit Expense: Update existing expenses
+- Delete Income: Remove existing incomes
+- Delete Expense: Remove existing expenses
+- View Income/Expense: View all incomes and expenses on the dashboard, including a pie chart
 
-Tech Stack:
-The ExpenseTracker application is built using the following technologies:
-MongoDB: A document-based NoSQL database used to store user data.
-Express: A Node.js framework used to build the RESTful API.
-React: A JavaScript library used to build the user interface.
-Node.js: A JavaScript runtime used to build the backend of the application.
+Tech Stack
+- MongoDB: Document-based NoSQL database for storing user data
+- Express: Node.js framework for building the RESTful API
+- React: JavaScript library for building the user interface
+- Node.js: JavaScript runtime for building the backend of the application
