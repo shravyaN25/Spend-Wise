@@ -14,8 +14,8 @@ An Expense Tracking webapp that keeps track of the income and expenses developed
 
 Functionality:
 The ExpenseTracker application has the following features:
-1.User Authentication: The application requires users to create an account or log in before they can use the application.
-2.Add Income: Users can add incomes by clicking on the "Add Income" button and filling out the form.
+User Authentication: The application requires users to create an account or log in before they can use the application.
+Add Income: Users can add incomes by clicking on the "Add Income" button and filling out the form.
 Add Expense: Users can add expenses by clicking on the "Add Expense" button and filling out the form.
 Edit Income: Users can edit incomes by clicking on the "Edit" button and updating the form.
 Edit Expense: Users can edit expenses by clicking on the "Edit" button and updating the form.
