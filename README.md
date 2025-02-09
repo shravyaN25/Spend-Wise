@@ -1,4 +1,6 @@
-An Expense Tracking webapp that keeps track of the income and expenses developed using the MERN Stack, designed to help users manage their expenses. The application allows users to create and manage their accounts, add, edit, delete and view their expenses in pie-chart.
+An Expense Tracking webapp that keeps track of the income and expenses developed using the MERN Stack, designed to help users manage their expenses. The application allows users to create and manage their accounts, add, edit, delete and view their expenses in pie-chart for quick understanding.
+
+
 
 ![Image](https://github.com/user-attachments/assets/d8929777-6bb9-4b4e-a9b1-e73523396d94)
 
@@ -12,8 +14,8 @@ An Expense Tracking webapp that keeps track of the income and expenses developed
 
 Functionality:
 The ExpenseTracker application has the following features:
-User Authentication: The application requires users to create an account or log in before they can use the application.
-Add Income: Users can add incomes by clicking on the "Add Income" button and filling out the form.
+1.User Authentication: The application requires users to create an account or log in before they can use the application.
+2.Add Income: Users can add incomes by clicking on the "Add Income" button and filling out the form.
 Add Expense: Users can add expenses by clicking on the "Add Expense" button and filling out the form.
 Edit Income: Users can edit incomes by clicking on the "Edit" button and updating the form.
 Edit Expense: Users can edit expenses by clicking on the "Edit" button and updating the form.
