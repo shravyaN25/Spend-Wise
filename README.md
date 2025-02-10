@@ -1,4 +1,4 @@
-An Expense Tracking webapp that keeps track of the income and expenses developed using the MERN Stack, designed to help users manage their expenses. The application allows users to create and manage their accounts, add, edit, delete and view their expenses in pie-chart for quick understanding.
+An Expense Tracking webapp that keeps track of the income and expenses developed using MERN Stack, designed to help users manage their expenses. The application allows users to create and manage their accounts, add, edit, delete and view their expenses in pie-chart for quick understanding.
 
 
 
